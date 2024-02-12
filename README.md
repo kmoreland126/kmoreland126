@@ -1,7 +1,7 @@
 Computer Science Student at Auburn University
 
 # About-Me:
-Full Time Student
+Full-Time Student
 
 # Experience:
 [Java](https://github.com/kmoreland126/COMP-2210)
@@ -13,3 +13,4 @@ Full Time Student
 # Projects
 
 # To-Do
+Start a project creating sample problems for standardized tests
