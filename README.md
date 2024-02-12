@@ -1,13 +1,13 @@
 Computer Science Student at Auburn University
 
-#About-Me:
+# About-Me:
 Full Time Student
 
-#Experience:
+# Experience:
 [Java]
 [C++]
 [Ruby]
 
-#Projects
+# Projects
 
-#To-Do
+# To-Do
