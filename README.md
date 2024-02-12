@@ -10,6 +10,8 @@ Full-Time Student
 
 [Ruby](https://github.com/kmoreland126/COMP-3220)
 
+[Python](https://github.com/kmoreland126/Leet-Code)
+
 # Projects
 
 # To-Do
