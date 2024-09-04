@@ -2,6 +2,7 @@ Computer Science Student at Auburn University
 
 # About-Me:
 Full-Time Student
+Co-Op Student for Harbert College of Business Information Technology Systems
 
 # Experience:
 [Java](https://github.com/kmoreland126/COMP-2210)
