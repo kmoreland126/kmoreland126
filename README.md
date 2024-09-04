@@ -2,6 +2,7 @@ Computer Science Student at Auburn University
 
 # About-Me:
 Full-Time Student
+
 Co-Op Student for Harbert College of Business Information Technology Systems
 
 # Experience:
