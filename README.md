@@ -18,4 +18,5 @@ Co-Op Student for Harbert College of Business Information Technology Systems
 [Algorithm Efficiency](https://github.com/kmoreland126/Algorithm-Efficency)
 
 # To-Do
-Create a website that will tell you when you need to take your medicine when you are traveling across time zones
+Finish Medicine Alert Project
+[Medicine Alert] (https://github.com/kmoreland126/Medicine-Alert)
