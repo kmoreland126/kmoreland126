@@ -19,4 +19,4 @@ Co-Op Student for Harbert College of Business Information Technology Systems
 
 # To-Do
 Finish Medicine Alert Project
-[Medicine Alert] (https://github.com/kmoreland126/Medicine-Alert)
+[Medicine Alert](https://github.com/kmoreland126/Medicine-Alert)
