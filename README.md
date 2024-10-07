@@ -14,9 +14,10 @@ Co-Op Student for Harbert College of Business Information Technology Systems
 
 [Python](https://github.com/kmoreland126/Leet-Code)
 
-# Projects
+# Projects:
 [Algorithm Efficiency](https://github.com/kmoreland126/Algorithm-Efficency)
 
-# To-Do
+# To-Do:
 Finish Medicine Alert Project
+
 [Medicine Alert](https://github.com/kmoreland126/Medicine-Alert)
