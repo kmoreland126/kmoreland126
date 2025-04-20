@@ -14,6 +14,14 @@ COMP 2710 - [Software Construction](https://github.com/kmoreland126/COMP-2710)
 
 COMP 3220 - [Principles of Programming Languages](https://github.com/kmoreland126/COMP-3220)
 
+COMP 3500 - [Operating Systems](https://github.com/kmoreland126/COMP-3500)
+
+COMP 3700 - [Software Modeling and Design](https://github.com/kmoreland126/COMP-3700)
+
+COMP 4200 - [Formal Languages](https://github.com/kmoreland126/COMP-4200)
+
+COMP 4320 - [Introduction of Computer Networks](https://github.com/kmoreland126/COMP-4320)
+
 # Projects:
 [Algorithm Efficiency](https://github.com/kmoreland126/Algorithm-Efficency)
 
