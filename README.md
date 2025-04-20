@@ -5,7 +5,7 @@ Full-Time Student
 
 Co-Op Student for Harbert College of Business Information Technology Systems
 
-# Experience:
+# Courses:
 [Java](https://github.com/kmoreland126/COMP-2210)
 
 [C++](https://github.com/kmoreland126/COMP-2710/tree/main)
