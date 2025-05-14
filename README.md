@@ -1,4 +1,4 @@
-Junior Computer Science Student at Auburn University
+Senior Computer Science Student at Auburn University
 
 # About-Me:
 Full-Time Student
