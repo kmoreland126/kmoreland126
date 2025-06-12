@@ -22,6 +22,10 @@ COMP 4200 - [Formal Languages](https://github.com/kmoreland126/COMP-4200)
 
 COMP 4320 - [Introduction of Computer Networks](https://github.com/kmoreland126/COMP-4320)
 
+COMP 4730 - [Computer Ethics](https://github.com/kmoreland126/COMP-4730)
+
+COMP 5970 - [Mobile App Development](https://github.com/kmoreland126/COMP-5970)
+
 # Projects:
 [Algorithm Efficiency](https://github.com/kmoreland126/Algorithm-Efficency)
 
