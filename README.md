@@ -24,6 +24,8 @@ COMP 4320 - [Introduction of Computer Networks](https://github.com/kmoreland126/
 
 COMP 4730 - [Computer Ethics](https://github.com/kmoreland126/COMP-4730)
 
+COMP 6120 - [Database Systems I]
+
 COMP 5970 - [Mobile App Development](https://github.com/kmoreland126/COMP-5970)
 
 # Projects:
