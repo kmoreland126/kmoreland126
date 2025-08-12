@@ -22,9 +22,17 @@ COMP 4200 - [Formal Languages](https://github.com/kmoreland126/COMP-4200)
 
 COMP 4320 - [Introduction of Computer Networks](https://github.com/kmoreland126/COMP-4320)
 
+COMP 4710 - [Senior Design]
+
 COMP 4730 - [Computer Ethics](https://github.com/kmoreland126/COMP-4730)
 
 COMP 5120 - [Database Systems I](https://github.com/kmoreland126/COMP-5120)
+
+COMP 5320 - [Design and Analysis of Computer Networks]
+
+COMP 5350 - [Digital Forensics]
+
+COMP 5710 - [Software Quality Assurance]
 
 COMP 5970 - [Mobile App Development](https://github.com/kmoreland126/COMP-5970)
 
