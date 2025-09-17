@@ -32,7 +32,7 @@ COMP 5320 - [Design and Analysis of Computer Networks](https://github.com/kmorel
 
 COMP 5350 - [Digital Forensics]
 
-COMP 5710 - [Software Quality Assurance]
+COMP 5710 - [Software Quality Assurance](https://github.com/kmoreland126/COMP-5710)
 
 COMP 5970 - [Mobile App Development](https://github.com/kmoreland126/COMP-5970)
 
