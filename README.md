@@ -28,7 +28,7 @@ COMP 4730 - [Computer Ethics](https://github.com/kmoreland126/COMP-4730)
 
 COMP 5120 - [Database Systems I](https://github.com/kmoreland126/COMP-5120)
 
-COMP 5320 - [Design and Analysis of Computer Networks]
+COMP 5320 - [Design and Analysis of Computer Networks] (https://github.com/kmoreland126/COMP-5320)
 
 COMP 5350 - [Digital Forensics]
 
