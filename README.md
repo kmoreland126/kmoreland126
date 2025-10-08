@@ -30,7 +30,7 @@ COMP 5120 - [Database Systems I](https://github.com/kmoreland126/COMP-5120)
 
 COMP 5320 - [Design and Analysis of Computer Networks](https://github.com/kmoreland126/COMP-5320)
 
-COMP 5350 - [Digital Forensics]
+COMP 5350 - [Digital Forensics](https://github.com/kmoreland126/COMP-5350)
 
 COMP 5710 - [Software Quality Assurance](https://github.com/kmoreland126/COMP-5710)
 
