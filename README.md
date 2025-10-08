@@ -22,7 +22,7 @@ COMP 4200 - [Formal Languages](https://github.com/kmoreland126/COMP-4200)
 
 COMP 4320 - [Introduction of Computer Networks](https://github.com/kmoreland126/COMP-4320)
 
-COMP 4710 - [Senior Design]
+COMP 4710 - [Senior Design](https://github.com/kmoreland126/COMP-4710)
 
 COMP 4730 - [Computer Ethics](https://github.com/kmoreland126/COMP-4730)
 
