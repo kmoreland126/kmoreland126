@@ -1,9 +1,5 @@
-Senior Computer Science Student at Auburn University
-
 # About-Me:
-Full-Time Student
-
-Co-Op Student for Harbert College of Business Information Technology Systems
+Bachelors of Science in Computer Science from Auburn University
 
 # Courses:
 COMP 1210 - [Fundamentals of Computing I](https://github.com/kmoreland126/COMP-1210)
