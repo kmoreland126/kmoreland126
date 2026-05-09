@@ -30,6 +30,8 @@ COMP 5350 - [Digital Forensics](https://github.com/kmoreland126/COMP-5350)
 
 COMP 5710 - [Software Quality Assurance](https://github.com/kmoreland126/COMP-5710)
 
+COMP 5830 - [Cybersecurity Threats and Countermeasures](https://github.com/kmoreland126/COMP-5830)
+
 COMP 5970 - [Mobile App Development](https://github.com/kmoreland126/COMP-5970)
 
 # Projects:
