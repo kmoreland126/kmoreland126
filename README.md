@@ -39,6 +39,7 @@ COMP 5970 - [Mobile App Development](https://github.com/kmoreland126/COMP-5970)
 
 [Accessibility Checker](https://accessibilitychecker25-arch.github.io/Accessibility-Checker)
 
+[Pico Projects](https://github.com/kmoreland126/Pico)
 # To-Do:
 Finish Medicine Alert Project
 
